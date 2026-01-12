@@ -1,0 +1,3 @@
+
+void addtofile();
+void loadfile();
